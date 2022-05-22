@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Noto Sans Myanmar', sans-serif;
+}
+
+main{
+    display: flex;
+    background-color: #406C94 ;
+}
+
+#cabecalho{
+    display: flex;
+   justify-content:center;
+}
+
+.caixaEsquerda{
+    display: flex;
+    text-align: center;
+}
+
+#img-central{
+    position:absolute ;
+    width: 430px;  
+    height: 443px;
+    left: 453px;
+    top: 363px;
+}
